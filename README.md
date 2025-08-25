@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A mechanical engineer with a coding interest!</h3>
 
 - 🔭 I’m currently working on **An internal company AI tool**
