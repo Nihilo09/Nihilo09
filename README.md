@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A mechanical engineer with a coding interest!</h3>
 
-- 🔭 I’m currently working on **An internal company AI tool**
+- 🔭 I’m currently working on **An GUI Bom/Partlist manager**
 
 - 🌱 I’m currently learning **Docker, node.js and mongoDB**
 
-- ⚡ Fun fact **I have no idea what im doing.**
+- ⚡ Fun fact **I have no idea what im doing, i'm just learning as i go.**
 
 <p align="left">
 </p>
